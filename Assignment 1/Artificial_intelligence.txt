@@ -1,0 +1,72 @@
+Since the invention of computers or machines, their capability to perform various tasks went on growing exponentially. Humans have developed the power of computer systems in terms of their diverse working domains, their increasing speed, and reducing size with respect to time.
+
+A branch of Computer Science named Artificial Intelligence pursues creating the computers or machines as intelligent as human beings.
+What is Artificial Intelligence?
+
+According to the father of Artificial Intelligence, John McCarthy, it is "The science and engineering of making intelligent machines, especially intelligent computer programs".
+
+Artificial Intelligence is a way of making a computer, a computer-controlled robot, or a software think intelligently, in the similar manner the intelligent humans think.
+
+AI is accomplished by studying how human brain thinks, and how humans learn, decide, and work while trying to solve a problem, and then using the outcomes of this study as a basis of developing intelligent software and systems.
+Philosophy of AI
+
+While exploiting the power of the computer systems, the curiosity of human, lead him to wonder, Can a machine think and behave like humans do?
+
+Thus, the development of AI started with the intention of creating similar intelligence in machines that we find and regard high in humans.
+Goals of AI
+
+    To Create Expert Systems - The systems which exhibit intelligent behavior, learn, demonstrate, explain, and advice its users.
+
+    To Implement Human Intelligence in Machines - Creating systems that understand, think, learn, and behave like humans.
+
+What Contributes to AI?
+
+Artificial intelligence is a science and technology based on disciplines such as Computer Science, Biology, Psychology, Linguistics, Mathematics, and Engineering. A major thrust of AI is in the development of computer functions associated with human intelligence, such as reasoning, learning, and problem solving.
+
+Out of the following areas, one or multiple areas can contribute to build an intelligent system.
+Components of AI
+Programming Without and With AI
+
+The programming without and with AI is different in following ways -
+Programming Without AI 	Programming With AI
+A computer program without AI can answer the specific questions it is meant to solve. 	A computer program with AI can answer the generic questions it is meant to solve.
+Modification in the program leads to change in its structure. 	AI programs can absorb new modifications by putting highly independent pieces of information together. Hence you can modify even a minute piece of information of program without affecting its structure.
+Modification is not quick and easy. It may lead to affecting the program adversely. 	Quick and Easy program modification.
+What is AI Technique?
+
+In the real world, the knowledge has some unwelcomed properties -
+
+    Its volume is huge, next to unimaginable.
+    It is not well-organized or well-formatted.
+    It keeps changing constantly.
+
+AI Technique is a manner to organize and use the knowledge efficiently in such a way that -
+
+    It should be perceivable by the people who provide it.
+    It should be easily modifiable to correct errors.
+    It should be useful in many situations though it is incomplete or inaccurate.
+
+AI techniques elevate the speed of execution of the complex program it is equipped with.
+Applications of AI
+
+AI has been dominant in various fields such as -
+
+    Gaming - AI plays crucial role in strategic games such as chess, poker, tic-tac-toe, etc., where machine can think of large number of possible positions based on heuristic knowledge.
+
+    Natural Language Processing - It is possible to interact with the computer that understands natural language spoken by humans.
+
+    Expert Systems - There are some applications which integrate machine, software, and special information to impart reasoning and advising. They provide explanation and advice to the users.
+
+    Vision Systems - These systems understand, interpret, and comprehend visual input on the computer. For example,
+
+        A spying aeroplane takes photographs, which are used to figure out spatial information or map of the areas.
+
+        Doctors use clinical expert system to diagnose the patient.
+
+        Police use computer software that can recognize the face of criminal with the stored portrait made by forensic artist.
+
+    Speech Recognition - Some intelligent systems are capable of hearing and comprehending the language in terms of sentences and their meanings while a human talks to it. It can handle different accents, slang words, noise in the background, change in human's noise due to cold, etc.
+
+    Handwriting Recognition - The handwriting recognition software reads the text written on paper by a pen or on screen by a stylus. It can recognize the shapes of the letters and convert it into editable text.
+
+    Intelligent Robots - Robots are able to perform the tasks given by a human. They have sensors to detect physical data from the real world such as light, heat, temperature, movement, sound, bump, and pressure. They have efficient processors, multiple sensors and huge memory, to exhibit intelligence. In addition, they are capable of learning from their mistakes and they can adapt to the new environment.

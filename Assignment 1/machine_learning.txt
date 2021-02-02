@@ -1,0 +1,48 @@
+Artificial Intelligence and Machine Learning: Policy Paper
+Foreword
+
+Artificial intelligence is a technology that is already impacting how users interact with, and are affected by the Internet. In the near future, its impact is likely to only continue to grow. AI has the potential to vastly change the way that humans interact, not only with the digital world, but also with each other, through their work and through other socioeconomic institutions for better or for worse.
+
+If we are to ensure that the impact of artificial intelligence will be positive, it will be essential that all stakeholders participate in the debates surrounding AI.
+
+In this paper, we seek to provide an introduction to AI to policymakers and other stakeholders in the wider Internet ecosystem.
+
+The paper explains the basics of the technology behind AI, identifies the key considerations and challenges surrounding the technology, and provides several high-level principles and recommendations to follow when dealing with the technology.
+
+If more stakeholders bring their points of view and expertise to the discussions surrounding AI, we are confident that its challenges can be addressed and the vast benefits the technology offers can be realized.
+Executive Summary
+
+Artificial Intelligence (AI) is a rapidly advancing technology, made possible by the Internet, that may soon have significant impacts on our everyday lives. AI traditionally refers to an artificial creation of human-like intelligence that can learn, reason, plan, perceive, or process natural language[1] . These traits allow AI to bring immense socioeconomic opportunities, while also posing ethical and socio-economic challenges.
+
+As AI is an Internet enabled technology, the Internet Society recognizes that understanding the opportunities and challenges associated with AI is critical to developing an Internet that people can trust.
+
+This policy paper offers a look at key considerations regarding AI, including a set of guiding principles and recommendations to help those involved in policy making make sound decisions. Of specific focus is machine learning, a particular approach to AI and the driving force behind recent developments. Instead of programming the computer every step of the way, machine learning makes use of learning algorithms that make inferences from data to learn new tasks.
+
+As machine learning is used more often in products and services, there are some significant considerations when it comes to users' trust in the Internet. Several issues must be considered when addressing AI, including, socio-economic impacts; issues of transparency, bias, and accountability; new uses for data, considerations of security and safety, ethical issues; and, how AI facilitates the creation of new ecosystems.
+
+At the same time, in this complex field, there are specific challenges facing AI, which include: a lack of transparency and interpretability in decision-making; issues of data quality and potential bias; safety and security implications; considerations regarding accountability; and, its potentially disruptive impacts on social and economic structures.
+
+In evaluating the different considerations and understanding the various challenges, the Internet Society has developed a set of principles and recommendations in reference to what we believe are the core �abilities�[2] that underpin the value the Internet provides.
+
+While the deployment of AI in Internet based services is not new, the current trend points to AI as an increasingly important factor in the Internet's future development and use. As such, these guiding principles and recommendations are a first attempt to guide the debate going forward. They include: ethical considerations in deployment and design; ensuring the �Interpretability� of AI systems; empowering the consumer; responsibility in the deployment of AI systems; ensuring accountability; and, creating a social and economic environment that is formed through the open participation of different stakeholders.
+Introduction
+
+Artificial intelligence (AI) has received increased attention in recent years. Innovation, made possible through the Internet, has brought AI closer to our everyday lives. These advances, alongside interest in the technology�s potential socio-economic and ethical impacts, brings AI to the forefront of many contemporary debates. Industry investments in AI are rapidly increasing [3], and governments are trying to understand what the technology could mean for their citizens. [4]
+
+The collection of "Big Data" and the expansion of the Internet of Things (IoT), has made a perfect environment for new AI applications and services to grow. Applications based on AI are already visible in healthcare diagnostics, targeted treatment, transportation, public safety, service robots, education and entertainment, but will be applied in more fields in the coming years. Together with the Internet, AI changes the way we experience the world and has the potential to be a new engine for economic growth.
+
+Current Uses of AI:
+
+Although artificial intelligence evokes thoughts of science fiction, artificial intelligence already has many uses today, for example:
+
+    Email filtering: Email services use artificial intelligence to filter incoming emails. Users can train their spam filters by marking emails as "spam".
+    Personalization: Online services use artificial intelligence to personalize your experience. Services, like Amazon or Netflix, "learn" from your previous purchases and the purchases of other users in order to recommend relevant content for you.
+    Fraud detection: Banks use artificial intelligence to determine if there is strange activity on your account. Unexpected activity, such as foreign transactions, could be flagged by the algorithm.
+    Speech recognition: Applications use artificial intelligence to optimize speech recognition functions. Examples include intelligent personal assistants, e.g. Amazon's "Alexa" or Apple's "Siri".
+
+The Internet Society recognizes that understanding the opportunities and challenges associated with AI is critical to developing an Internet that people trust. This is particularly important as the Internet is key for the technology behind AI and is the main platform for its deployment; including significant new means of interacting with the network. This policy paper offers a look at the key things to think about when it comes to AI, including a set of guiding principles and recommendations to help make sound policy decisions. Of particular focus is machine learning, a specific approach to AI and the driving force behind recent developments.
+Artificial Intelligence What it's all about
+
+Artificial intelligence (AI) traditionally refers to an artificial creation of human-like intelligence that can learn, reason, plan, perceive, or process natural language. [5]
+
+Artificial intelligence is further defined as "narrow AI" or "general AI". Narrow AI, which we interact with today, is designed to perform specific tasks within a domain (e.g. language translation). General AI is hypothetical and not domain specific, but can learn and perform tasks anywhere. This is outside the scope of this paper. This paper focuses on advances in narrow AI, particularly on the development of new algorithms and models in a field of computer science referred to as machine learning.
