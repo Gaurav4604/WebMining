@@ -1,0 +1,68 @@
+Umpire Decision Review System
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+
+The Umpire Decision Review System (UDRS or DRS) is a technology-based system used in cricket to assist the match officials with their decision-making.[1] On-field umpires may choose to consult with the third umpire (known as an Umpire Review), and players may request that the third umpire consider a decision of the on-field umpires (known as a Player Review).
+
+The main elements that have been used are television replays, technology that tracks the path of the ball and predicts what it would have done, microphones to detect small sounds made as the ball hits bat or pad, and infra-red imaging to detect temperature changes as the ball hits bat or pad.
+
+While on-field Test match umpires have been able to refer some decisions to a third umpire since November 1992, the formal DRS system to add Player Reviews was first used in a Test match in 2008, first used in an ODI in January 2011, and first used in a Twenty20 International in October 2017.
+Contents
+
+    1 History
+    2 Components
+    3 System
+    4 Officiating replay system
+    5 Reception
+    6 Player Review statistics
+    7 References
+
+History
+
+The system was first introduced in Test cricket, for the sole purpose of reviewing controversial decisions made by the on-field umpires as to whether or not a batsman/batswoman had been dismissed. The system is based on the concept of player - referral conceived by Senaka Weeraratna in 1997. The system was first tested in an India v Sri Lanka match in 2008,[2] and was officially launched by the ICC on 24 November 2009 during the first Test match between New Zealand and Pakistan at the University Oval in Dunedin.[3][4] It was first used in One Day Internationals (ODI) in January 2011, during England's tour of Australia.[5] The ICC initially made the UDRS mandatory in all international matches,[6] but later made its use optional, so that the system would only be used if both teams agree. The ICC has agreed to continue to work on the technology and will try to incorporate its use into all ICC events.[7]
+
+In October 2012, the ICC made amendments on lbw protocols, increasing the margin of uncertainty when the ball hits the batsman's pad.[8] In July 2016, the rules were amended once again, reducing the margin of uncertainty.[9][10] The updated rules were first used in the ODI match between Ireland and South Africa in September 2016.[11]
+
+In September 2013, the ICC announced that for a trial period starting in October 2013, a team's referrals would be reset to two after 80 overs in an innings in Test matches. Previously each team had a maximum of two unsuccessful reviews in an innings.[12]
+
+Starting in November 2014 from Australia's ODI series versus South Africa, the field umpires' communications have also been broadcast to the viewers. Whenever a decision is reviewed by the TV umpire, the umpire's communication with the field umpire and the reply incharge can be heard.[13]
+
+In February 2017, the ICC agreed the use for all future ICC World Twenty20 tournaments, with one review per team.[14] The first T20 tournament scheduled to use the technology will be the 2018 ICC Women's World Twenty20.[15] It was used in Knockout stages of Pakistan Super League 2017, which was the first time DRS used in a T20 league. DRS was used for the first time in Twenty20 International in India-Australia T20I series in October 2017.[16]
+
+Under the new ICC rules as of November 2017, there would no longer be a top-up of reviews after 80 overs in Test matches, and teams will have only 2 unsuccessful reviews every innings. However, teams would no longer lose a review for an umpire's call on an LBW review.
+Components
+
+The components in UDRS are:
+
+    Television replays, including slow motion.
+    Hawk-Eye,[17] Eagle Eye, or Virtual Eye: ball-tracking technology that plots the trajectory of a bowling delivery that has been interrupted by the batsman/batswoman, often by the pad, and can predict whether it would have hit the stumps.
+    Snickometer or Ultra-edge[18][19][20] (Hawk-Eye's version): directional microphones to detect small sounds made as the ball hits the bat or pad. The use of the original Snickometer was superseded by Real Time Snicko in 2013.[21][22][23][24][25]
+    Hot Spot: Infra-red imaging system that shows where the ball has been in contact with bat or pad. Improved cameras were introduced for the 2012 season.[26]
+
+System
+
+A fielding team may use the system to dispute a "not out" decision and a batting team may use it to dispute an "out" decision. The fielding team captain or the batsman/batswoman being dismissed invokes the challenge by signalling a "T" with the arms or arm and bat. Additionally, at their discretion, on-field umpires may request the Third Umpire reviews certain close calls such as line calls (to determine run outs, stumpings and no-balls), boundary calls (to see if a batsman/batswoman hit a four or a six), or for close catch calls where neither umpire is sure if a catch was made. In the case of a catch, the umpire may only ask the third umpire if the ball was caught cleanly, and not if the ball hit the batsman’s bat or glove (this is only subject to a player review). In such an occasion, the on-field umpire must give a “soft-signal” to say whether or not they think it is out and the third umpire must find conclusive evidence that the on-field decision is incorrect. A challenge is only used in situations that did or could result in a dismissal: for example, to determine if the ball is a legal catch (making contact with the batsman/batswoman's bat or glove and not touching the ground before being held by a fielder), or if a delivery made the criteria for an LBW dismissal.
+
+Once the challenge is invoked, acknowledged, and agreed, the Third Umpire reviews the play. The Third Umpire then reports to the on-field umpire whether his analysis supports the original call, contradicts the call, or is inconclusive. The on-field umpire then makes the final decision: either re-signalling a call that is standing or revoking a call that is being reversed and then making the corrected signal. Only clearly incorrect decisions are reversed; if the Third Umpire's analysis is within established margins of error or is otherwise inconclusive, the on-field umpire's original call stands.[27]
+
+Each team can initiate referrals until they reach the limit on unsuccessful reviews.[28] This limit is two unsuccessful review requests per innings during a Test match, and one unsuccessful review request per innings during a One Day International. From 2013 until September 2017, the number of reviews available for a team in a Test innings was topped-up to two after 80 overs. From October 2017, if the on-field decision remains unchanged because the DRS shows "umpire's call", the team will not lose its review.[29][30][31]
+Officiating replay system
+
+In 2013, ICC tested a broadcaster-free replay system. Under the experiment, a non-match umpire sits in a separate room with a giant monitor and has discretion over which replays to see rather than relying on the broadcaster. The non-match umpire mirrors the role of the third umpire without having the duty of making adjudications. The system was first used in an Ashes Test (where Nigel Llong performed the duties of non-match umpire) and was repeated in a Pakistan-Sri Lanka ODI.[32]
+Reception
+Unbalanced scales.svg
+	
+The neutrality of this section is disputed. Relevant discussion may be found on the talk page. Please do not remove this message until conditions to do so are met. (September 2016) (Learn how and when to remove this template message)
+
+The Decision Review System has generally received positive response from players and coaches since its launch, however there have been some criticisms as well. West Indies legend Joel Garner labelled the system a "gimmick".[33] Another West Indian Ramnaresh Sarwan said that he was not a supporter of the experimental referral system.[34] Former umpire Dickie Bird also criticised the system, saying it undermines the authority of on-field umpires.[35] The cricketing board of India has expressed a skeptical view on the adoption of the system if it is near perfect.[36] Pakistani spinner Saeed Ajmal expressed dissatisfaction over the Decision Review System after a semi-final of the 2011 Cricket World Cup against India. He said that DRS showed the line of the ball deviating more than it actually did.[37] Hawk-Eye officials admitted in December 2014 that their review technology made an error in a decision to give Pakistan opener Shan Masood out in the second Test against New Zealand in Dubai (17-21 November 2014). At a meeting held at the ICC office in Dubai two weeks later, Hawk-Eye is understood to have conceded to Pakistan captain Misbah-ul-Haq and team manager Moin Khan that the projection used by their technology for the Leg before wicket decision was incorrect.[38] Also, a challenge can only be made by the captain within a 15-second window from when an initial decision is made, but it can be lengthened if no clear decision is made, especially they are assumed not out if there is no reaction by the umpire.
+Player Review statistics
+
+An analysis of more than 2,100 Player Reviews between September 2009 and March 2017 found that:[39][40]
+
+    Only 26% of Player Reviews resulted in on-field decisions being overturned.
+    Reviews by batsmen were less frequent than reviews by bowling teams, as 41% of reviews were by batsmen and 59% by bowling teams.
+    Reviews by batsmen were more likely to be successful, with a 34% success rate, compared to a success rate of about 20% for bowling teams.
+    74% of referrals were for LBW, 18% for wicketkeeper catches, and the rest for catches elsewhere or indeterminate reason. The success rate was only 22% for LBW, compared to 40% for wicketkeeper catches.
+    There were on average about 1.4 batting overturns and 1.2 bowling overturns per match. Initial fears that DRS would bring an increase in the number of dismissals have therefore not come true, in fact this implies a slight reduction in the frequency of dismissals.
+    Zimbabwe and India had the highest success rates, with 34% and 30%, and Pakistan and West Indies had the lowest success rates, both with 23%.
