@@ -1,0 +1,36 @@
+at depth 0: //fc2.com/en/
+at depth 0: https://blog.fc2.com/en/
+at depth 0: https://video.fc2.com/en/
+  at depth 1: //fc2.com/
+  at depth 1: //help.fc2.com/
+  at depth 1: //request.fc2.com/search_wish.php?ct1=0
+  at depth 1: //blog.fc2.com/en
+  at depth 1: https://id.fc2.com/signup.php?ref=blog&switch_language=en
+  at depth 1: https://secure.id.fc2.com/?done=blog&switch_language=en
+  at depth 1: http://fc2blogmanualen.blog.fc2.com/
+  at depth 1: #
+  at depth 1: https://talk.fc2.com/en/
+  at depth 1: https://blog.fc2.com/?lang=en
+  at depth 1: http://video.fc2.com/language_change.php?lang=en
+  at depth 1: https://live.fc2.com/en/?afid=32621524
+  at depth 1: https://contents.fc2.com/language_change.php?lang=en
+    at depth 2: http://blog.fc2.com/
+    at depth 2: http://ginsuke02.blog.fc2.com/blog-entry-2595.html
+    at depth 2: http://ginsuke02.blog.fc2.com/blog-entry-2588.html
+    at depth 2: http://sarukitikun.blog.fc2.com/blog-entry-6960.html
+    at depth 2: https://blog.fc2.com/
+    at depth 2: http://fc2blogmanualen.blog.fc2.com/blog-entry-180.html
+    at depth 2: /blog-category-0.html
+    at depth 2: http://talk.fc2.com/en/
+    at depth 2: https://itunes.apple.com/en/app/fc2talk/id576062764?l=en&ls=1&mt=8
+    at depth 2: http://apps.fc2.com/talk/?lang=US
+    at depth 2: https://fc2.com/
+    at depth 2: https://live.fc2.com/
+    at depth 2: https://live.fc2.com/login/?done=livechat&switch_language=en
+    at depth 2: http://id.fc2.com/signup.php?ref=livechat&switch_language=en
+    at depth 2: https://live.fc2.com/adult/
+    at depth 2: /
+    at depth 2: /cart.php
+    at depth 2: /lk/services/id/login
+    at depth 2: /lk/services/id/signup
+    at depth 2: None

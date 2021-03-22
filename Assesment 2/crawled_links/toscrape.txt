@@ -1,0 +1,14 @@
+at depth 0: http://books.toscrape.com
+at depth 0: http://quotes.toscrape.com/
+at depth 0: http://quotes.toscrape.com
+  at depth 1: index.html
+  at depth 1: catalogue/category/books_1/index.html
+  at depth 1: catalogue/category/books/travel_2/index.html
+  at depth 1: catalogue/category/books/mystery_3/index.html
+  at depth 1: /
+  at depth 1: /login
+  at depth 1: /author/Albert-Einstein
+  at depth 1: /tag/change/page/1/
+  at depth 1: /tag/deep-thoughts/page/1/
+    at depth 2: https://www.goodreads.com/quotes
+    at depth 2: https://scrapinghub.com

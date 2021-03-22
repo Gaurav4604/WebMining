@@ -1,0 +1,37 @@
+at depth 0: /
+at depth 0: http://www.enable-javascript.com/
+at depth 0: https://help.soundcloud.com/hc/articles/115003564308-Technical-requirements
+at depth 0: http://google.com/chrome
+at depth 0: http://firefox.com
+  at depth 1: #nogo
+  at depth 1: ./
+  at depth 1: /hr/
+  at depth 1: /de/
+  at depth 1: /nl/
+  at depth 1: https://help.soundcloud.com
+  at depth 1: https://community.soundcloud.com/getting-started
+  at depth 1: https://community.soundcloud.com/grow-your-career
+  at depth 1: https://community.soundcloud.com/industry
+  at depth 1: https://support.google.com/accounts/answer/3118621?hl=en
+  at depth 1: https://policies.google.com/technologies/cookies?hl=en
+  at depth 1: /chrome/
+  at depth 1: #jump-content
+  at depth 1: /en-US/
+  at depth 1: /firefox/download/thanks/
+  at depth 1: /en-US/privacy/firefox/
+  at depth 1: https://accounts.firefox.com/signup?entrypoint=mozilla.org-globalnav&form_type=button&utm_source=mozilla.org-globalnav&utm_medium=referral&utm_campaign=navigation&utm_content=get-firefox-account
+  at depth 1: /en-US/firefox/browsers/
+    at depth 2: ../
+    at depth 2: /getting-started
+    at depth 2: /grow-your-career
+    at depth 2: /industry
+    at depth 2: /?tab=uu
+    at depth 2: /accounts
+    at depth 2: https://www.google.co.in/intl/en/about/products?tab=uh
+    at depth 2: https://myaccount.google.com/?utm_source=OGB&tab=uk&utm_medium=app
+    at depth 2: https://www.google.co.in/webhp?tab=uw
+    at depth 2: https://www.google.co.in/intl/en/about/products
+    at depth 2: https://myaccount.google.com/?utm_source=OGB&utm_medium=app
+    at depth 2: https://www.google.co.in/webhp
+    at depth 2: https://maps.google.co.in/maps?hl=en
+    at depth 2: https://www.mozilla.org/about/?utm_source=firefox-accounts&utm_medium=Referral

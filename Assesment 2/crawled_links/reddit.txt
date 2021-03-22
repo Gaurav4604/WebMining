@@ -1,0 +1,34 @@
+at depth 0: /
+at depth 0: https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2F
+at depth 0: https://www.reddit.com/register/?dest=https%3A%2F%2Fwww.reddit.com%2F
+at depth 0: /hot/
+at depth 0: /new/
+  at depth 1: https://www.redditinc.com/policies/user-agreement
+  at depth 1: https://www.redditinc.com/policies/privacy-policy
+  at depth 1: /username?dest=https%3A%2F%2Fwww.reddit.com%2F
+  at depth 1: /password?dest=https%3A%2F%2Fwww.reddit.com%2F
+  at depth 1: /register/?dest=https%3A%2F%2Fwww.reddit.com%2F
+  at depth 1: /login/?dest=https%3A%2F%2Fwww.reddit.com%2F
+  at depth 1: #
+  at depth 1: https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fhot%2F
+  at depth 1: https://www.reddit.com/register/?dest=https%3A%2F%2Fwww.reddit.com%2Fhot%2F
+  at depth 1: https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fnew%2F
+  at depth 1: https://www.reddit.com/register/?dest=https%3A%2F%2Fwww.reddit.com%2Fnew%2F
+    at depth 2: /username?dest=https%3A%2F%2Fwww.reddit.com%2F/username?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /password?dest=https%3A%2F%2Fwww.reddit.com%2F/username?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /register/?dest=https%3A%2F%2Fwww.reddit.com%2F/username?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /username?dest=https%3A%2F%2Fwww.reddit.com%2F/password?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /password?dest=https%3A%2F%2Fwww.reddit.com%2F/password?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /register/?dest=https%3A%2F%2Fwww.reddit.com%2F/password?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /username?dest=https%3A%2F%2Fwww.reddit.com%2F/register/?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /password?dest=https%3A%2F%2Fwww.reddit.com%2F/register/?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /register/?dest=https%3A%2F%2Fwww.reddit.com%2F/register/?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /login/?dest=https%3A%2F%2Fwww.reddit.com%2F/login/?dest=https%3A%2F%2Fwww.reddit.com%2F
+    at depth 2: /username?dest=https%3A%2F%2Fwww.reddit.com%2Fhot%2F
+    at depth 2: /password?dest=https%3A%2F%2Fwww.reddit.com%2Fhot%2F
+    at depth 2: /register/?dest=https%3A%2F%2Fwww.reddit.com%2Fhot%2F
+    at depth 2: /login/?dest=https%3A%2F%2Fwww.reddit.com%2Fhot%2F
+    at depth 2: /username?dest=https%3A%2F%2Fwww.reddit.com%2Fnew%2F
+    at depth 2: /password?dest=https%3A%2F%2Fwww.reddit.com%2Fnew%2F
+    at depth 2: /register/?dest=https%3A%2F%2Fwww.reddit.com%2Fnew%2F
+    at depth 2: /login/?dest=https%3A%2F%2Fwww.reddit.com%2Fnew%2F
