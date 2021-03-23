@@ -15,9 +15,9 @@ at depth 0: https://video.fc2.com/en/
   at depth 1: https://live.fc2.com/en/?afid=32621524
   at depth 1: https://contents.fc2.com/language_change.php?lang=en
     at depth 2: http://blog.fc2.com/
-    at depth 2: http://46p9kdnei11l.blog.fc2.com/blog-entry-3632.html
-    at depth 2: http://momocatstar.blog.fc2.com/blog-entry-2464.html
-    at depth 2: http://ponmamaphoto2.blog.fc2.com/blog-entry-1795.html
+    at depth 2: http://kansai-joshiana.com/blog-entry-14342.html
+    at depth 2: http://himanatokiniyaruo.com/blog-entry-23203.html
+    at depth 2: http://cocoronitaiyo.fc2.net/blog-entry-563.html
     at depth 2: https://blog.fc2.com/
     at depth 2: http://fc2blogmanualen.blog.fc2.com/blog-entry-180.html
     at depth 2: /blog-category-0.html
