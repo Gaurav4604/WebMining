@@ -15,9 +15,9 @@ at depth 0: https://video.fc2.com/en/
   at depth 1: https://live.fc2.com/en/?afid=32621524
   at depth 1: https://contents.fc2.com/language_change.php?lang=en
     at depth 2: http://blog.fc2.com/
-    at depth 2: http://retsugaiha.blog.fc2.com/blog-entry-2738.html
-    at depth 2: http://petclover.blog.fc2.com/blog-entry-4455.html
-    at depth 2: http://nekoneko4hiki.blog.fc2.com/blog-entry-494.html
+    at depth 2: http://02150526.blog.fc2.com/blog-entry-11862.html
+    at depth 2: http://sennenaigis.blog.fc2.com/blog-entry-19815.html
+    at depth 2: http://azukichanaichan.blog48.fc2.com/blog-entry-1983.html
     at depth 2: https://blog.fc2.com/
     at depth 2: http://fc2blogmanualen.blog.fc2.com/blog-entry-180.html
     at depth 2: /blog-category-0.html
