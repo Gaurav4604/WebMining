@@ -56,7 +56,6 @@ while not checker(P_new, P_old, ε):
     P_old = P_new
     P_new = np.dot(np.add(np.multiply((1 - d), E), np.multiply(d, Adjacency_Matrix.T)), P_old)
     count += 1
-
-print("\n\n[INFO] Ran {} iterations...\n".format(count))
-for i in range(len(P_new)):
-    print("Page Rank for {}, is {}".format(titles[i], round(P_new[i], 5)))
+    print("\n\n[INFO] Ran {} iterations...\n".format(count))
+    for i in range(len(P_new)):
+        print("Page Rank for {}, is {}".format(titles[i], round(P_new[i], 5)))
